@@ -1,0 +1,9 @@
+__pycache__/*.pyc
+.pytest_cache/*
+__pycache__/*
+.vscode/settings.json
+.vscode
+__pycache__
+.pytest_cache
+*.exe
+*.csv
